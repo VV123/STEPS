@@ -242,4 +242,5 @@ Results are saved to Excel with the following columns:
 ## 📧 Contact
 
 For questions or support, please contact:
-- Qiming Guo: qguo2@islander.tamucc.edu
+- Wenlu Wang: wenlu.wang.1@gmail.com; wenlu.wang@tamucc.edu
+- Qiming Guo: qguo2@islander.tamucc.edu; 
