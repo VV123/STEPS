@@ -1,6 +1,6 @@
 # STEPS: Efficient Unlearning for Spatio-temporal Graphs
 
-[![Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35259](https://ojs.aaai.org/index.php/AAAI/article/view/35259)
+[![Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35259)](https://ojs.aaai.org/index.php/AAAI/article/view/35259)
 
 This repository contains the implementation of **STEPS** (Spatio-Temporal graph complexity Evaluation, Partition-aggregation strategy, and Sub-model scale), an efficient unlearning framework for spatio-temporal graphs presented at AAAI-25.
 
